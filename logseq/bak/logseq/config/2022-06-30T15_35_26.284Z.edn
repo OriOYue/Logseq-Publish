@@ -26,8 +26,7 @@
 
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
- :publishing/all-pages-public? true
- :default-home {:page "OriOYue" :sidebar ["contents"]}
+
  ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
 
@@ -201,8 +200,8 @@
 
  :ref/linked-references-collapsed-threshold 50
 
- :favorites ["OriOYue"]
-
+ :favorites ["OrOYue" "How to take dummy notes?"]
+ :publishing/all-pages-public? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
