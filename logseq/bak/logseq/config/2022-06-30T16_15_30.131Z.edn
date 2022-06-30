@@ -27,7 +27,7 @@
  ;; Enable Block timestamp
  :feature/enable-block-timestamps? false
  :publishing/all-pages-public? true
- :default-home {:page "contents" :sidebar ["contents"]}
+ :default-home {:page "OriOYue" :sidebar ["contents"]}
  ;; Disable Built-in Scheduled and deadline Query
  ;; :feature/disable-scheduled-and-deadline-query? true
 
